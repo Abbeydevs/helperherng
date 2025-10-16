@@ -311,6 +311,7 @@ const RequestServiceForm = () => {
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-colors"
                   >
                     <option value="">Select preferred time</option>
+                    <option value="it">Individual Time - 7am - 5pm</option>
                     <option value="morning">Morning (8AM - 12PM)</option>
                     <option value="afternoon">Afternoon (12PM - 4PM)</option>
                     <option value="evening">Evening (4PM - 8PM)</option>

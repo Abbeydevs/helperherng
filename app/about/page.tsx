@@ -77,8 +77,7 @@ const AboutPage = () => {
           <div
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
             style={{
-              backgroundImage:
-                "url('https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
+              backgroundImage: "url('/images/woman.png')",
             }}
           />
           <div className="absolute inset-0 bg-black/60" />
@@ -129,10 +128,23 @@ const AboutPage = () => {
                 Our Story
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Helpher.ng was born from a simple yet powerful observation: many
-                families in Lagos need reliable domestic help, while many women
-                need dignified work opportunities. We bridge this gap by
-                creating a platform that benefits everyone involved.
+                HelpHer.ng was born from a simple but powerful idea — that women
+                are the backbone of every society, yet too many are held back by
+                poverty, lack of opportunity, and the absence of a support
+                system. The challenges; In Nigeria, statistics show that 70% of
+                the poor are women, and more than half of rural women live below
+                the poverty line. Despite their resilience and multiple roles as
+                mothers, caregivers, and breadwinners, women often remain among
+                the most economically disadvantaged. The Solution; We saw this
+                gap and asked: what if women had access to the skills, training,
+                and opportunities to work with dignity? What if we could turn
+                everyday services like cleaning, cooking, laundry, and errands
+                into pathways to financial freedom and self-respect? That
+                question gave birth to HelpHer.ng. Our initiative stems from a
+                deep commitment to tackling the feminization of poverty in
+                Nigeria. We believe that when a woman is empowered, she not only
+                changes her own life but also uplifts her family, educates her
+                children, and strengthens her community.
               </p>
             </motion.div>
 
@@ -146,11 +158,11 @@ const AboutPage = () => {
                     The Challenge
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
-                    In Nigeria, 70% of poor people are women, and less than 20%
-                    of women actually own assets. Many women, especially in
-                    urban areas like Lagos, struggle to find stable employment
-                    that allows them to support their families while maintaining
-                    their dignity.
+                    In Nigeria, statistics show that 70% of the poor are women,
+                    and more than half of rural women live below the poverty
+                    line. Despite their resilience and multiple roles as
+                    mothers, caregivers, and breadwinners, women often remain
+                    among the most economically disadvantaged.
                   </p>
                 </div>
                 <div>
@@ -158,11 +170,12 @@ const AboutPage = () => {
                     Our Solution
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
-                    We provide comprehensive training in domestic services,
-                    connect women with families who need their skills, and
-                    ensure fair compensation and respectful treatment. This
-                    creates sustainable income for women while providing quality
-                    services to families.
+                    We saw this gap and asked: what if women had access to the
+                    skills, training, and opportunities to work with dignity?
+                    What if we could turn everyday services like cleaning,
+                    cooking, laundry, and errands into pathways to financial
+                    freedom and self-respect? That question gave birth to
+                    HelpHer.ng.
                   </p>
                 </div>
               </div>

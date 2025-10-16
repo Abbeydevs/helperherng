@@ -63,10 +63,12 @@ const RegisterHelperForm = () => {
   ];
 
   const availabilityOptions = [
-    "Monday - Friday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
     "Weekends",
-    "Full-time (Live-in)",
-    "Part-time (Live-out)",
     "Flexible hours",
     "Emergency/On-call",
   ];

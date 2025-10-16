@@ -74,23 +74,23 @@ const ServicesPage = () => {
       duration: "4-8 hours",
       popular: false,
     },
-    {
-      icon: Home,
-      title: "Domestic Assistance",
-      description:
-        "Comprehensive household management and domestic support services to keep your home running smoothly.",
-      features: [
-        "General household management",
-        "Organization and tidying",
-        "Daily maintenance tasks",
-        "Pet care assistance",
-        "Plant watering and care",
-        "Light maintenance tasks",
-      ],
-      pricing: "From ₦10,000",
-      duration: "4-8 hours",
-      popular: false,
-    },
+    // {
+    //   icon: Home,
+    //   title: "Domestic Assistance",
+    //   description:
+    //     "Comprehensive household management and domestic support services to keep your home running smoothly.",
+    //   features: [
+    //     "General household management",
+    //     "Organization and tidying",
+    //     "Daily maintenance tasks",
+    //     "Pet care assistance",
+    //     "Plant watering and care",
+    //     "Light maintenance tasks",
+    //   ],
+    //   pricing: "From ₦10,000",
+    //   duration: "4-8 hours",
+    //   popular: false,
+    // },
     {
       icon: Baby,
       title: "Childcare Support",
