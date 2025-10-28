@@ -91,23 +91,23 @@ const ServicesPage = () => {
     //   duration: "4-8 hours",
     //   popular: false,
     // },
-    {
-      icon: Baby,
-      title: "Childcare Support",
-      description:
-        "Reliable and caring childcare assistance for busy parents, ensuring your children's safety and engagement.",
-      features: [
-        "Child supervision and care",
-        "Educational activity engagement",
-        "Safety-focused approach",
-        "Meal preparation for children",
-        "Homework assistance",
-        "Light housekeeping related to children",
-      ],
-      pricing: "From ₦20,000",
-      duration: "4-12 hours",
-      popular: true,
-    },
+    // {
+    //   icon: Baby,
+    //   title: "Childcare Support",
+    //   description:
+    //     "Reliable and caring childcare assistance for busy parents, ensuring your children's safety and engagement.",
+    //   features: [
+    //     "Child supervision and care",
+    //     "Educational activity engagement",
+    //     "Safety-focused approach",
+    //     "Meal preparation for children",
+    //     "Homework assistance",
+    //     "Light housekeeping related to children",
+    //   ],
+    //   pricing: "From ₦20,000",
+    //   duration: "4-12 hours",
+    //   popular: true,
+    // },
     {
       icon: ShoppingCart,
       title: "Errands & Shopping",
@@ -138,7 +138,7 @@ const ServicesPage = () => {
       icon: Award,
       title: "Trained Professionals",
       description:
-        "Comprehensive training programs ensure quality service delivery.",
+        "All our Helpers undergo comprehensive training with from Prestigious brands and companies.",
     },
     {
       icon: Clock,

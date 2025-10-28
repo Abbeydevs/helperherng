@@ -60,9 +60,10 @@ const AboutPreview = () => {
                 Our Mission
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Creating pathways out of poverty for women by offering job
-                training and connecting them with paying service opportunities
-                in their communities.
+                To create a pathway out of poverty for women by equipping them
+                with professional household skills and link them with job
+                opportunities that improves their lives and contributes to
+                society.
               </p>
             </motion.div>
 
@@ -77,8 +78,9 @@ const AboutPreview = () => {
                 Our Vision
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                A Lagos where every woman, regardless of her background, has the
-                opportunity to earn a living with dignity and pride.
+                To build a future where no woman is trapped in poverty, and
+                every home has access to trusted help through trained, empowered
+                women.
               </p>
             </motion.div>
 

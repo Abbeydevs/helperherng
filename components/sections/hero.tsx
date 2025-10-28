@@ -48,8 +48,8 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-3xl md:text-5xl font-bold mb-6 leading-tight"
           >
-            Empowering Women,
-            <span className="text-orange-500"> Transforming Lives</span>
+            Empowered Women,
+            <span className="text-orange-500"> Essential Services</span>
           </motion.h2>
 
           {/* Subtitle */}

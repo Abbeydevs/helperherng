@@ -10,6 +10,7 @@ import {
   Twitter,
   Instagram,
   Linkedin,
+  X,
 } from "lucide-react";
 import Link from "next/link";
 
@@ -34,9 +35,17 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: Facebook, href: "#", label: "Facebook" },
-    { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Instagram, href: "#", label: "Instagram" },
+    {
+      icon: Facebook,
+      href: "https://www.instagram.com/helpher_ng?igsh=dGdmMXNzazV2MHFi",
+      label: "Facebook",
+    },
+    { icon: X, href: "https://x.com/helpher_ng?s=21", label: "Twitter" },
+    {
+      icon: Instagram,
+      href: "https://www.instagram.com/helpher_ng?igsh=dGdmMXNzazV2MHFi",
+      label: "Instagram",
+    },
     { icon: Linkedin, href: "#", label: "LinkedIn" },
   ];
 
@@ -124,12 +133,12 @@ const Footer = () => {
             >
               <h4 className="text-lg font-semibold mb-6">Get in Touch</h4>
               <div className="space-y-4">
-                <div className="flex items-start">
+                {/* <div className="flex items-start">
                   <MapPin className="h-5 w-5 text-orange-500 mt-0.5 mr-3 flex-shrink-0" />
                   <div>
                     <p className="text-gray-400 text-sm">Lagos, Nigeria</p>
                   </div>
-                </div>
+                </div> */}
 
                 <div className="flex items-center">
                   <Mail className="h-5 w-5 text-orange-500 mr-3 flex-shrink-0" />
@@ -137,7 +146,7 @@ const Footer = () => {
                     href="mailto:info@helpher.ng"
                     className="text-gray-400 hover:text-orange-400 transition-colors duration-200 text-sm"
                   >
-                    info@helpher.ng
+                    helpherng@gmail.com
                   </a>
                 </div>
 
@@ -147,7 +156,7 @@ const Footer = () => {
                     href="tel:+2341234567890"
                     className="text-gray-400 hover:text-orange-400 transition-colors duration-200 text-sm"
                   >
-                    +234 123 456 7890
+                    +234 810 421 6789 | +44 735 015 9107
                   </a>
                 </div>
               </div>

@@ -45,19 +45,6 @@ const ServicesPreview = () => {
       features: ["Washing & drying", "Professional ironing", "Fabric care"],
     },
     {
-      icon: Home,
-      title: "Domestic Assistance",
-      description:
-        "Comprehensive household management and domestic support services.",
-      features: ["Household management", "Organization", "Daily assistance"],
-    },
-    {
-      icon: Baby,
-      title: "Childcare Support",
-      description: "Reliable and caring childcare assistance for busy parents.",
-      features: ["Child supervision", "Activity engagement", "Safety focused"],
-    },
-    {
       icon: ShoppingCart,
       title: "Errands & Shopping",
       description: "Personal shopping and errand services to save you time.",
