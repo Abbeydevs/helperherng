@@ -114,7 +114,7 @@ const AboutPage = () => {
       </section>
 
       {/* Our Story Section */}
-      {/* <section className="py-20 bg-white">
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <motion.div
             variants={containerVariants}
@@ -127,24 +127,15 @@ const AboutPage = () => {
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
                 Our Story
               </h2>
-              <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
+              <p className="text-xl text-gray-600 mx-auto leading-relaxed">
                 HelpHer.ng was born from a simple but powerful idea — that women
                 are the backbone of every society, yet too many are held back by
                 poverty, lack of opportunity, and the absence of a support
-                system. The challenges; In Nigeria, statistics show that 70% of
-                the poor are women, and more than half of rural women live below
-                the poverty line. Despite their resilience and multiple roles as
-                mothers, caregivers, and breadwinners, women often remain among
-                the most economically disadvantaged. The Solution; We saw this
-                gap and asked: what if women had access to the skills, training,
-                and opportunities to work with dignity? What if we could turn
-                everyday services like cleaning, cooking, laundry, and errands
-                into pathways to financial freedom and self-respect? That
-                question gave birth to HelpHer.ng. Our initiative stems from a
-                deep commitment to tackling the feminization of poverty in
-                Nigeria. We believe that when a woman is empowered, she not only
-                changes her own life but also uplifts her family, educates her
-                children, and strengthens her community.
+                system. Our initiative stems from a deep commitment to tackling
+                the feminization of poverty in Nigeria. We believe that when a
+                woman is empowered, she not only changes her own life but also
+                uplifts her family, educates her children, and strengthens her
+                community.
               </p>
             </motion.div>
 
@@ -182,7 +173,7 @@ const AboutPage = () => {
             </motion.div>
           </motion.div>
         </div>
-      </section> */}
+      </section>
 
       {/* Mission, Vision, Values */}
       <section className="py-20 bg-gray-50">

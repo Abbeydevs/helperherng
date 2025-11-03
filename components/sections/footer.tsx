@@ -4,10 +4,8 @@ import { motion } from "framer-motion";
 import {
   Mail,
   Phone,
-  MapPin,
   Heart,
   Facebook,
-  Twitter,
   Instagram,
   Linkedin,
   X,
